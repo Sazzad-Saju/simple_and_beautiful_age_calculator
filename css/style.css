@@ -1,0 +1,19 @@
+.boxHeader {
+    background-color: #336699;
+    color: white;
+    padding: 15px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.boxBody {
+    background-color: #EEEEEE;
+    padding: 15px;
+}
+
+.force-right {
+    text-align: right!important;
+}
+
+.ageStatus {
+    font-family: 'Akaya Telivigala', cursive;
+}
