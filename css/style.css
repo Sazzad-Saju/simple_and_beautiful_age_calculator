@@ -16,4 +16,6 @@
 
 .ageStatus {
     font-family: 'Akaya Telivigala', cursive;
+    width: 50%;
+    margin: auto;
 }
