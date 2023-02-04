@@ -2,7 +2,6 @@
 
 - **Required to complete: HTML, CSS, Bootstrap, Javascript**
 - **Development Tools: VSCode, Chrome**
-- **Dadicated to Silvia Aumie**
 
 ## Playlist on YouTube (Click)
 
